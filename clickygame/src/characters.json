@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Aang",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Katara",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Sokka",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Toph",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Zuko",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Uncle Iroh",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": "Azula",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "name": "Bumi",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "name": "Roku",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "name": "Ozai",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "name": "Appa",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "name": "Momo",
+        "image": ""
+    }
+
+]
